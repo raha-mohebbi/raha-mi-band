@@ -1,0 +1,1 @@
+{"configVersion":"v2","zpks":[{"name":"9f6b21a721d1ebd2aff1d7c39c8187b8.zpk","version":{"code":1,"name":"1.0.0"},"appType":"watchface","platforms":[{"screenType":"bar","screenResolution":"192x349","cpuPlatform":"DIALOG"}],"md5":"9f6b21a721d1ebd2aff1d7c39c8187b8"}],"bundleInfo":{"zpm":"3.4.2","timeStamp":1790088442}}

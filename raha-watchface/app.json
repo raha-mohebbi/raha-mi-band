@@ -12,7 +12,17 @@
     "vender": "zepp",
     "description": "Custom Xiaomi Smart Band 7 watchface"
   },
+
+  "assets": [
+    "assets/l66/cat.png",
+    "assets/l66/battery.png",
+  "assets/l66/walking.png",
+  "assets/l66/heart.png",
+  "assets/l66/fire.png"
+  ],
+
   "permissions": [],
+
   "runtime": {
     "apiVersion": {
       "compatible": "1.0.0",
@@ -20,6 +30,7 @@
       "minVersion": "1.0.0"
     }
   },
+
   "targets": {
     "l66": {
       "module": {
@@ -31,19 +42,23 @@
           "hightCost": 0
         }
       },
+
       "platforms": [
         {
           "name": "l66",
           "deviceSource": 263
         }
       ],
+
       "designWidth": 192
     }
   },
+
   "i18n": {
     "en-US": {
       "appName": "Raha Band 7 Watchface"
     }
   },
+
   "defaultLanguage": "en-US"
 }
