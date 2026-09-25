@@ -1,3 +1,4 @@
+<img width="859" height="1903" alt="mi band" src="https://github.com/user-attachments/assets/f7b1f1b6-7b12-4b8b-bc75-b9200ac4e770" />
 # 🐱 Xiaomi Smart Band 7 Watch Face
 
 A custom watch face designed and developed for **Xiaomi Smart Band 7** using **Zepp OS APIs**.
